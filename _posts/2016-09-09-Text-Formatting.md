@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Betcy's first blog post"
 author: "Betcy Mathew"
-categories: sample
-tags: [sample]
+categories: blog
+tags: [first]
 image:
   feature: cuba-4.jpg
 ---
 
 
 # First Post
-
+so appy to have such a fine pierogi :heartpulse:

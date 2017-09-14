@@ -1,9 +1,9 @@
 title:  "Basalt Group LLC"
-tagline: "a Jekyll theme"
+tagline: "Lets tell your story"
 description:
 author:
   name: "Betcy Mathew"
-  twitter: paululele
+
 
 # Change to true for Disqus comments
 disqus:
@@ -19,10 +19,10 @@ menu:
 - {name: 'Contact', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'twitter', link: 'https://twitter.com/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/'}
+- {icon: 'instagram', link: 'https://instagram.com/'}
+- {icon: 'linkedin', link: 'https://linkedin.com/'}
 - {icon: 'envelope', link: 'mailto:betcy@basaltgroupllc.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

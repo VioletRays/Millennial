@@ -10,4 +10,4 @@ image:
 
 
 # First Post
-so appy to have such a fine pierogi :heartpulse::heartpulse::heartpulse:
+so appy to have such a fine pierogi 
